@@ -1,16 +1,20 @@
-## Hi there 👋
+# Nasserson Mevadia — Data Engineer & AI Builder
 
-<!--
-**nasserson/Nasserson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Rabat, Morocco. I build data pipelines, AI applications, and automation systems.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Stack |
+|---------|-------------|-------|
+| SalesX  | AI-powered B2B prospecting platform | Python · Groq AI · Microservices · Redis |
+| Lovasoa | Production web app (35+ deployments) | TypeScript · Next.js · Vercel |
+| AutomaPro | Business automation services | Next.js · n8n · Make · Zapier |
+
+## Tech Stack
+**Data & AI:** Python · Pandas · Scikit-learn · Selenium · LLM/Groq · ETL
+**Web:** TypeScript · Next.js · React · Tailwind CSS
+**Automation:** n8n · Make · Zapier · Python scripts
+**Infra:** Redis · Docker · Microservices · Vercel
+
+## Currently
+Data Engineer @ InteLead · Building SalesX · Open to remote opportunities
